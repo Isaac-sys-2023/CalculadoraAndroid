@@ -1,0 +1,52 @@
+# Android Studio project files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle files
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.7z
+.gradle/
+/gradle-wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# Android specific files
+/app/build/
+/app/.externalNativeBuild/
+/app/.cxx/
+/app/src/main/assets/
+/app/src/main/res/raw/
+
+# Keystore files
+*.keystore
+debug.keystore
+
+# Log files
+*.log
+
+# Crashlytics/Fabric files
+crashlytics-build.properties
+
+# AVD files
+.android/avd/
+
+# Kotlin-specific
+*.kotlin_module
+.idea/jarRepositories.xml
